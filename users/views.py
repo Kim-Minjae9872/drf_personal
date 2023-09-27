@@ -1,6 +1,6 @@
 
 
-
 class UserView:
-    def get:
-    return Response
+    pass
+#     def get:
+#     return Response
